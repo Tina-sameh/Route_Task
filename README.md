@@ -5,4 +5,3 @@
 - Application to Show Product.
 ## 📱 UI 
 ![Screenshot 2024-07-18 155357](https://github.com/user-attachments/assets/08d10e0b-92d7-4bed-8103-693df04d86a9)
-## 🛠 Dependencies
