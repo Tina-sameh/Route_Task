@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:task/home_screen/home_screen.dart';
+import 'package:task/screen/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,9 +13,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
      routes: {
-       HomeScreen.routeName: (context)=> HomeScreen(),
+       Screen.routeName: (context)=> Screen(),
      },
-      initialRoute: HomeScreen.routeName,
+      initialRoute: Screen.routeName,
     );
   }
 }
